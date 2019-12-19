@@ -17,14 +17,14 @@ CNCF 是一个开源软件基金会，致力于使云原生计算具有普遍性
 * 注册 GitHub 账户
     [注册 Github](https://github.com/)
 
-    ![注册页面](images\github.png)
+    ![注册页面](images/github.png)
     
     提倡 @gmail.com @163.com 等邮箱注册 , 尽量避免 QQ 邮箱。*避免以后关联 Slack 出现问题* 
 * 签署 CNCF-CLA 协议
     
     登录 [linuxfoundation](https://identity.linuxfoundation.org/) 进行注册以及签署协议。
 
-    ![登录页面](images\linuxfoundation.png)
+    ![登录页面](images/linuxfoundation.png)
 
 * 注册相关账号
     
@@ -47,7 +47,7 @@ CNCF 是一个开源软件基金会，致力于使云原生计算具有普遍性
 # 参与贡献
 
 ## 熟悉 PR 流程
-![创建 PR 流程](images\pr.png)
+![创建 PR 流程](images/pr.png)
 
 ## 以 CNCF Kubernetes 为例
 
