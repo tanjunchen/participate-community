@@ -8,7 +8,7 @@ CNCF 是一个开源软件基金会，致力于使云原生计算具有普遍性
 * [中文社区](https://www.kubernetes.org.cn/)
 * [cncf 社区活跃度](https://www.stackalytics.com/cncf)
 
-    罗列世界上活跃于 CNCF 组织的各个公司以及非营利组织与个人。我们公司是 BoCloud。
+    罗列世界上活跃于 CNCF 组织的各个公司以及非营利组织与个人。
 
 # 贡献准备
 
