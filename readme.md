@@ -1,1 +1,1 @@
-How to take part in open source org
+How to participate in open source organizations
