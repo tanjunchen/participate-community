@@ -112,4 +112,4 @@ Istio 汉化 https://github.com/servicemesher
 
 # Github 常用语
 
-见 [Github 常用语](AA.md#github-language)
+见 [Github 常用语](github-language.md#github-language)
