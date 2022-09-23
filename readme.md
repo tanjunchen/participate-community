@@ -1,8 +1,6 @@
 # 开源社区
 
-***[借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)***
-
-![opensource](images/opensource.png)
+***借助开源项目，学习软件开发***
 
 ## 介绍
 
